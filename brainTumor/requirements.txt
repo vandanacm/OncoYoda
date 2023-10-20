@@ -1,0 +1,8 @@
+tensorflow
+opencv-python
+pandas
+seaborn
+scikit-learn
+matplotlib
+#gradio
+twilio
